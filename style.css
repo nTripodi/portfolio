@@ -82,6 +82,7 @@ nav ul li:hover {
 .opgg {
     text-decoration: none;
     color: inherit;
+    cursor: none;
 }
 
 .page-content header button:hover {
